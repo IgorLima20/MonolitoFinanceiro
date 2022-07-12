@@ -1,0 +1,176 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 443
+  ClientWidth = 492
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlPrincipal: TPanel
+    Left = 0
+    Top = 0
+    Width = 492
+    Height = 443
+    Align = alClient
+    BevelOuter = bvNone
+    TabOrder = 0
+    ExplicitLeft = 94
+    ExplicitTop = -102
+    ExplicitWidth = 442
+    ExplicitHeight = 394
+    object Panel1: TPanel
+      Left = 0
+      Top = 0
+      Width = 492
+      Height = 105
+      Align = alTop
+      BevelOuter = bvNone
+      Padding.Top = 20
+      TabOrder = 0
+      ExplicitWidth = 442
+      object lblNomeAplicacao: TLabel
+        Left = 0
+        Top = 20
+        Width = 492
+        Height = 37
+        Align = alTop
+        Alignment = taCenter
+        Caption = 'Usu'#225'rio'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clBlack
+        Font.Height = -27
+        Font.Name = 'Segoe UI'
+        Font.Style = [fsBold]
+        ParentFont = False
+        ExplicitWidth = 99
+      end
+      object Label3: TLabel
+        Left = 168
+        Top = 63
+        Width = 149
+        Height = 16
+        Alignment = taCenter
+        Caption = 'Informe a sua nova senha'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clMenuText
+        Font.Height = -13
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+    end
+    object Panel3: TPanel
+      Left = 0
+      Top = 105
+      Width = 492
+      Height = 338
+      Align = alClient
+      BevelOuter = bvNone
+      Padding.Left = 100
+      Padding.Right = 100
+      TabOrder = 1
+      ExplicitWidth = 442
+      ExplicitHeight = 289
+      object Panel2: TPanel
+        Left = 100
+        Top = 0
+        Width = 292
+        Height = 72
+        Align = alTop
+        BevelOuter = bvNone
+        TabOrder = 0
+        ExplicitTop = -42
+        ExplicitWidth = 273
+        object Label1: TLabel
+          Left = 0
+          Top = 0
+          Width = 292
+          Height = 13
+          Align = alTop
+          Caption = 'Senha'
+          ExplicitWidth = 30
+        end
+        object edtSenha: TEdit
+          Left = 0
+          Top = 13
+          Width = 292
+          Height = 21
+          Align = alTop
+          PasswordChar = '*'
+          TabOrder = 0
+          ExplicitTop = 18
+          ExplicitWidth = 242
+        end
+      end
+      object Panel4: TPanel
+        Left = 100
+        Top = 72
+        Width = 292
+        Height = 72
+        Align = alTop
+        BevelOuter = bvNone
+        TabOrder = 1
+        ExplicitTop = 0
+        ExplicitWidth = 242
+        object Label2: TLabel
+          Left = 0
+          Top = 0
+          Width = 292
+          Height = 13
+          Align = alTop
+          Caption = 'Confirme a sua senha'
+          ExplicitWidth = 104
+        end
+        object edtConfirmarSenha: TEdit
+          Left = 0
+          Top = 13
+          Width = 292
+          Height = 21
+          Align = alTop
+          PasswordChar = '*'
+          TabOrder = 0
+          ExplicitTop = 21
+          ExplicitWidth = 273
+        end
+      end
+      object Panel5: TPanel
+        Left = 100
+        Top = 150
+        Width = 292
+        Height = 51
+        BevelOuter = bvNone
+        TabOrder = 2
+        object btnConfirmar: TButton
+          Left = 217
+          Top = 0
+          Width = 75
+          Height = 51
+          Align = alRight
+          Caption = 'Confirmar'
+          TabOrder = 0
+          ExplicitLeft = 216
+          ExplicitTop = 1
+          ExplicitHeight = 49
+        end
+        object Button1: TButton
+          Left = 0
+          Top = 0
+          Width = 75
+          Height = 51
+          Align = alLeft
+          Caption = 'Cancelar'
+          TabOrder = 1
+          ExplicitLeft = 21
+          ExplicitHeight = 49
+        end
+      end
+    end
+  end
+end

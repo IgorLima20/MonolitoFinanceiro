@@ -1,0 +1,14 @@
+object dmConexao: TdmConexao
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  Height = 341
+  Width = 493
+  object FDQuery1: TFDQuery
+    Left = 104
+    Top = 168
+  end
+  object SQLConexao: TFDConnection
+    Left = 104
+    Top = 112
+  end
+end

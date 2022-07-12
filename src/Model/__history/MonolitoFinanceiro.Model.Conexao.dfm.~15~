@@ -1,0 +1,21 @@
+object dmConexao: TdmConexao
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  Height = 341
+  Width = 493
+  object SQLConexao: TFDConnection
+    Params.Strings = (
+      
+        'Database=D:\Curso\Projetos\MonolitoFinanceiro\db\SistemaFinancei' +
+        'ro.db'
+      'DriverID=sQLite')
+    LoginPrompt = False
+    Left = 104
+    Top = 96
+  end
+  object FDQuery1: TFDQuery
+    Connection = SQLConexao
+    Left = 104
+    Top = 168
+  end
+end

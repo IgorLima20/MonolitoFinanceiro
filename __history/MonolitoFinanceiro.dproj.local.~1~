@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/04 16:20:19.000.250,=C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 16:25:26.000.506,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonilitoFinanceiro.View.Principal.dfm</Transaction>
+    <Transaction>2022/07/04 16:25:26.000.506,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonilitoFinanceiro.View.Principal.pas</Transaction>
+    <Transaction>2022/07/04 16:25:50.000.090,C:\Users\Usuario\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Curso\Projetos\MonolitoFinanceiro\MonilitoFinanceiro.dproj</Transaction>
+    <Transaction>2022/07/04 16:39:12.000.313,D:\Curso\Projetos\MonolitoFinanceiro\MonilitoFinanceiro.dproj=D:\Curso\Projetos\MonolitoFinanceiro\MonolitoFinanceiro.dproj</Transaction>
+    <Transaction>2022/07/04 16:39:53.000.759,D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonilitoFinanceiro.View.Principal.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Principal.pas</Transaction>
+    <Transaction>2022/07/04 16:39:53.000.759,D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonilitoFinanceiro.View.Principal.dfm=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Principal.dfm</Transaction>
+    <Transaction>2022/07/04 16:48:10.000.876,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 16:49:22.000.950,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.CadastroPadrao.dfm</Transaction>
+    <Transaction>2022/07/04 16:49:22.000.950,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.CadastroPadrao.pas</Transaction>
+    <Transaction>2022/07/05 09:52:54.000.784,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/05 09:53:59.000.719,D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Splash.dfm=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm</Transaction>
+    <Transaction>2022/07/05 09:53:59.000.719,D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Splash.pas=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/05 16:02:20.000.905,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/05 16:03:18.000.505,D:\Curso\Projetos\MonolitoFinanceiro\src\Model\MonolitoFinanceiro.Model.Conexao.dfm=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm</Transaction>
+    <Transaction>2022/07/05 16:03:18.000.505,D:\Curso\Projetos\MonolitoFinanceiro\src\Model\MonolitoFinanceiro.Model.Conexao.pas=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/05 16:11:48.000.253,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/05 16:12:38.000.932,D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Usuarios.dfm=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm</Transaction>
+    <Transaction>2022/07/05 16:12:38.000.932,D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Usuarios.pas=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/06 08:50:36.000.419,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/06 08:51:54.000.923,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm=D:\Curso\Projetos\MonolitoFinanceiro\src\Model\MonolitoFinanceiro.Model.Usuarios.dfm</Transaction>
+    <Transaction>2022/07/06 08:51:54.000.923,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\Model\MonolitoFinanceiro.Model.Usuarios.pas</Transaction>
+    <Transaction>2022/07/07 14:38:22.000.973,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/07 14:39:46.000.314,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\Util\MonolitoFinanceiro.Utilitarios.pas</Transaction>
+    <Transaction>2022/07/08 13:51:37.000.614,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 13:52:14.000.647,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Login.pas</Transaction>
+    <Transaction>2022/07/08 13:52:14.000.647,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm=D:\Curso\Projetos\MonolitoFinanceiro\src\View\MonolitoFinanceiro.View.Login.dfm</Transaction>
+    <Transaction>2022/07/08 16:10:37.000.868,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 16:13:30.000.559,D:\Curso\Projetos\MonolitoFinanceiro\src\Model\Entidades\MonolitoFinanceiro.Model.Entidades.Usuarios.pas=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 16:55:16.000.818,=D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 17:03:27.000.598,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.dfm=D:\Curso\Projetos\MonolitoFinanceiro\src\Model\MonolitoFinanceiro.Model.Sistema.dfm</Transaction>
+    <Transaction>2022/07/08 17:03:27.000.598,D:\Curso\Projetos\MonolitoFinanceiro\Unit1.pas=D:\Curso\Projetos\MonolitoFinanceiro\src\Model\MonolitoFinanceiro.Model.Sistema.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="src"/>
+    <File Path="src\Model"/>
+    <File Path="src\Model\Entidades"/>
+    <File Path="src\Model\Entidades\MonolitoFinanceiro.Model.Entidades.Usuarios.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Conexao.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Conexao.dfm"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Usuarios.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Usuarios.dfm"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Sistema.pas"/>
+    <File Path="src\Model\MonolitoFinanceiro.Model.Sistema.dfm"/>
+    <File Path="src\Util"/>
+    <File Path="src\Util\MonolitoFinanceiro.Utilitarios.pas"/>
+    <File Path="src\View"/>
+    <File Path="src\View\MonolitoFinanceiro.View.CadastroPadrao.pas"/>
+    <File Path="src\View\MonolitoFinanceiro.View.CadastroPadrao.dfm"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Principal.pas"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Principal.dfm"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Splash.pas"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Splash.dfm"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Usuarios.pas"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Usuarios.dfm"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Login.pas"/>
+    <File Path="src\View\MonolitoFinanceiro.View.Login.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
